@@ -1,0 +1,8 @@
+.markdown-section ul {
+       padding-left: 15px;
+}
+
+.markdown-section ul li {
+	list-style-type: disc;
+	font-size: 1.05em;
+}
