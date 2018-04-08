@@ -27,6 +27,8 @@ gitbook build
 * [theme-default](https://github.com/GitbookIO/theme-default) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/theme-default/blob/master/LICENSE)
 * [plugin-fontsettings](https://github.com/GitbookIO/plugin-fontsettings) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-fontsettings/blob/master/LICENSE)
 * [plugin-highlight](https://github.com/GitbookIO/plugin-highlight) by [GitBook](https://github.com/GitbookIO), Lizenz: Apache 2
+* [plugin-splitter](https://github.com/yoshidax/gitbook-plugin-splitter) by [yoshidax](https://github.com/yoshidax), Lizenz: [MIT License](https://github.com/yoshidax/gitbook-plugin-splitter/blob/master/LICENSE.txt)
+* [plugin-ace](https://github.com/ymcatar/gitbook-plugin-ace) by [ymcatar](https://github.com/ymcatar), Lizenz: [Apache License](https://github.com/ymcatar/gitbook-plugin-ace/blob/master/LICENSE)
 * [plugin-lunr](https://github.com/GitbookIO/plugin-lunr) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-lunr/blob/master/LICENSE)
 * plugin-livereload
 * [plugin-search](https://github.com/GitbookIO/plugin-search) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-search/blob/master/LICENSE)
